@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "extends": "@kaizentech/eslint-config-typescript/react-native",
+  "rules": {
+    "no-param-reassign": ["error", { "props": false }]
+  }
+}

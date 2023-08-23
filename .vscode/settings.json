@@ -1,0 +1,20 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.eol": "\n",
+  "editor.wordWrap": "on",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "diffEditor.wordWrap": "on",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.scrollback": 100000,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.detectIndentation": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+}
