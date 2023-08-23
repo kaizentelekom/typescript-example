@@ -1,7 +1,8 @@
 import axios from 'axios'
+import Config from 'react-native-config'
 
 const instance = axios.create({
-  baseURL: 'https://pokeapi.co/api/v2/',
+  baseURL: Config.API_URL,
   timeout: 1000
 })
 
