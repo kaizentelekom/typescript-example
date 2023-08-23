@@ -10,6 +10,7 @@ This example repo covers some libraries on how to use them with TypeScript
 - [React Native Config](https://github.com/luggit/react-native-config#typescript-declaration-for-your-env-file)
 - [React Query](https://tanstack.com/query/v3/docs/react/overview) I wanted to create a sample project for React Query. You can check out [this link](https://tkdodo.eu/blog/thinking-in-react-query) to get an idea. I could not use mutations because the api I use does not have a post endpoint
 - [Zod](https://zod.dev/) I validated the backend response with Zod library. With this way we will have 100% valid data in the app and this will reduce crashes from backend.
+- [Kaizen TypeScript ESLint Config](https://github.com/kaizentelekom/typescript)
 
 ## Features
 - Routing
@@ -19,3 +20,4 @@ This example repo covers some libraries on how to use them with TypeScript
 - Caching with React Query
 - Custom hooks
 - Type declaration for React Native Config
+- TypeScript ESLint config
