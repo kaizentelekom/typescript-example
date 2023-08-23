@@ -1,6 +1,6 @@
 # Kaizen TypeScript Example
 
-This example covers some libraries on how to use them with TypeScript
+This example repo covers some libraries on how to use them with TypeScript
 
 ## Library List
 - [React Navigation](https://reactnavigation.org/docs/typescript)
