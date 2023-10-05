@@ -4,6 +4,9 @@ import { NativeStackNavigationProp } from '@react-navigation/native-stack'
 
 export type RootStackParamList = {
   PokemonDetail: {
+    /**
+     * name
+     */
     name: string
     type: 'collectable' | 'collected'
   }
